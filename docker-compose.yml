@@ -1,11 +1,11 @@
 services:
   app:
-    container_name: react_dev
+    container_name: react_app
     build:
       context: .
-      dockerfile: Dockerfile.dev
+      dockerfile: Dockerfile
     ports:
-      - "3000:3000"
+      - "3000:80"
     volumes:
       - .:/app
       - /app/node_modules
