@@ -1,0 +1,93 @@
+[
+{
+    "name": "Dynamic.jsx",
+    "path": "src/components/Dynamic.jsx",
+    "size": 1234,
+    "lastModified": "2024-06-01T12:34:56Z"
+},
+{
+    "name": "Conditions.jsx",
+    "path": "src/components/Conditions.jsx",
+    "size": 5678,
+    "lastModified": "2024-06-02T09:45:12Z"  
+},
+{
+    "name": "Loop.jsx",
+    "path": "src/components/Loop.jsx",
+    "size": 910,
+    "lastModified": "2024-06-03T14:20:30Z"
+},
+{
+    "name": "App.jsx",
+    "path": "src/App.jsx",
+    "size": 2345,
+    "lastModified": "2024-06-04T16:10:45Z"
+},
+{
+    "name": "index.js",
+    "path": "src/index.js",
+    "size": 3456,
+    "lastModified": "2024-06-05T11:25:00Z"
+},
+{
+    "name": "styles.css",
+    "path": "src/styles.css",
+    "size": 789,
+    "lastModified": "2024-06-06T08:15:20Z"
+},
+{
+    "name": "seriesData.json",
+    "path": "src/api/seriesData.json",
+    "size": 456,
+    "lastModified": "2024-06-07T10:05:30Z"
+},
+{
+    "name": "utils.js",
+    "path": "src/utils.js",
+    "size": 678,
+    "lastModified": "2024-06-08T13:40:50Z"
+},
+{
+    "name": "constants.js",
+    "path": "src/constants.js",
+    "size": 890,
+    "lastModified": "2024-06-09T15:30:10Z"
+},
+{
+    "name": "apiService.js",
+    "path": "src/api/apiService.js",
+    "size": 123,
+    "lastModified": "2024-06-10T17:20:40Z"
+},
+{
+    "name": "README.md",
+    "path": "src/README.md",
+    "size": 456,
+    "lastModified": "2024-06-11T19:00:00Z"
+},
+{
+    "name": "package.json",
+    "path": "src/package.json",
+    "size": 789,
+    "lastModified": "2024-06-12T21:15:30Z"
+},
+{
+    "name": "webpack.config.js",
+    "path": "src/webpack.config.js",
+    "size": 234,
+    "lastModified": "2024-06-13T23:45:20Z"
+},
+{
+    "name": "babel.config.js",
+    "path": "src/babel.config.js",
+    "size": 345,
+    "lastModified": "2024-06-14T01:30:10Z"
+},
+{
+    "name": "eslint.config.js",
+    "path": "src/eslint.config.js",
+    "size": 456,
+    "lastModified": "2024-06-15T03:20:40Z"
+}
+]
+
