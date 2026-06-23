@@ -10,7 +10,7 @@ const Dynamic = () => {
     }
     return (
         <div>
-            <h1>Deployment From Docker</h1>
+            <h1>Dynamic Component</h1>
             <p>Name: {name}</p>
             <p>Number: {number}</p>
             <p>Result: {newfunction()}</p>
